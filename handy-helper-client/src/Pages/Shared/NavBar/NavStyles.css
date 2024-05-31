@@ -1,0 +1,8 @@
+li a.active {
+    font-size: 20px;
+    /* font-weight: 400; */
+    color: #FF3811;
+    background-color: transparent;
+    padding: 5px;
+    border-bottom: 2px solid #FF3811;
+}
